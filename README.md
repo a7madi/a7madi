@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Abdulaziz Alahmadi
+---
+I'm a Software Engineer 🧑🏻‍💻 from Saudi Arabia 🇸🇦.
 
+I specialized in cross-platform mobile app development 📱, Below in the **toolbox** you'll find the technologies that I'm experienced with.
 <!--
 **a7madi/a7madi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
