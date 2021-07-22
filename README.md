@@ -14,8 +14,6 @@ Down below in the **toolbox** you'll find a list of Technologies that I'm experi
 
 ---
 
-🔥 My Github Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7madi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
